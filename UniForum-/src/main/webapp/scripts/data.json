@@ -1,0 +1,93 @@
+[
+{
+    "title":"sport",
+    "discussions":[
+        {
+            "question": [
+                {
+                    "script":"Do you think that Jimmy Gressier is doped?",
+                    "date":"07/12/20"
+                }
+            ]
+            "creator": [
+                {
+                    "username":"panostock",
+                    "email":"juliapnzo@gmail.com"
+                    "password":"07021998"
+                }
+            ]
+            "answerMessage":[
+                {
+                    "script":"omg no!",
+                    "writer": [
+                        {
+                            "username":"bob",
+                            "email":"bob33@wanadoo.fr",
+                            "password":"bob10HOZ"
+                        }
+                    ]
+                    "date":"07/12/20",
+                    "votesNumber":24
+                },
+                {
+                    "script":"I don't think so. Because he trains at INSEP, the reference pole in France.",
+                    "writer": [
+                        {
+                            "username":"therunnerfromFrance",
+                            "email":"runnerFrance@gmail.com",
+                            "password":"iloverunning"
+                        }
+                    ]
+                    "date":"07/12/20",
+                    "votesNumber":10
+                },
+                {
+                    "script":"His performances was too amazing during too many years, but we can't accuse someone just because he runs fast",
+                    "writer": [
+                        {
+                            "username":"jarod2",
+                            "email":"jardodmiami@hotmail.fr",
+                            "password":"jardodkjq"
+                        }
+                    ]
+                    "date":"08/12/20",
+                    "votesNumber":76
+                }
+            ]
+        },
+        {
+            "question": [
+                {
+                    "script":"How become an international champion?",
+                    "date":"09/03/21"
+                }
+            ]
+            "creator": [
+                {
+                    "username":"aimy18",
+                    "email":"aimy18@gmail.com",
+                    "password":"mynameisaimy"
+                }
+            ]
+            "answerMessage":[
+                {
+                    "script":"Train hard",
+                    "date":"09/03/21",
+                    "votesNumber":108,
+                    "writer":[
+                        {
+                            "username":"jeanrichard",
+                            "email":"jeanrichard@wanadoo.fr",
+                            "password":"trainhardwineasy"
+                        }
+                    ]
+                    
+                },
+                {
+                    "script":"Already having predispositions",
+                    "date":"10/03/21",
+                    "votesNumber":37,
+                    "writer"
+                },
+}
+]

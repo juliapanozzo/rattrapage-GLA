@@ -1,0 +1,83 @@
+h1 {
+  color: #0984e3;
+  text-align: center;
+  font-size: 28px;
+  font-family: "Avantgarde", sans-serif;
+}
+
+h3 {
+  color: #0984e3;
+  font-size: 18px;
+  font-family: "Avantgarde", sans-serif;
+  text-align: left;
+}
+
+
+body {
+  text-align: center;
+  font-family: "Avantgarde", sans-serif;
+}
+
+date1, date2, date3 {
+  text-align: right;
+  color: black;
+  font-size: 13px;
+  font-family: "Avantgarde", sans-serif;
+}
+
+div {
+  display:flex;
+  text-align: left;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  min-height: 4em;
+  padding   : 1em 4em;
+  font      : white;
+  position  : relative;
+  background-color: white;
+  border: 2px solid #0984e3;
+  margin-top: 5px;
+}
+
+button {
+	background-color: white;
+    border: none;
+    color: #0984e3;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 12px;
+    -webkit-box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+    box-shadow: 0 10px 30px 0 rgba(95,186,233,0.4);
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    margin: 5px 20px 40px 20px;
+    margin-left: 500;
+    width: 160px;
+    height: 50px;
+}
+
+d {
+  font-size: 13px ;
+  margin-top: 10px;
+  text-align: left;
+}
+
+qs1, qs2, qs3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a {
+    color: #0984e3;
+    display:flex;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: left;
+    font-family: "Avantgarde", sans-serif;
+}

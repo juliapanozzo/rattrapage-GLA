@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="styles/threads.css">
+        
+        <title>UniForum!</title>
+    </head>
+    
+    	<body>
+    		<h3>UniForum!</h3>
+    		<h1>Threads List (Sport)</h1>
+    		
+    		<div>
+    			<qs1>Who is Jimmy Gressier?</qs1>
+    			<date1>posted on 02/05/2021</date1>
+    			<button id=answers-btn >See 4 answers (click here)</button>
+    			<qs2>do you have any solutions so as not to regress in swimming despite confinement and closed swimming pools?</qs2>
+    			<date2>posted on 28/04/2021</date2>
+    			<button id=answer2-btn >See 13 answers</button>
+    			<qs3>my road bike makes a strange noise only when I'm a dancer and I force (in the ribs for example), I tried to take it apart but I can't find where it could come from</qs3>
+    			<date3>posted on 25/04/2021</date3>
+    			<button id=answer3-btn >See 7 answers</button>
+    		</div>
+    		
+    		
+    		<a class href="thematics.html">Back to thematics page</a>
+    	</body>
+    	
+    	<script id="templateThematic" type="text/template">
+			<dyn>
+				<%= attribute %>
+			</dyn>
+		</script>
+		
+			<dyn id="result"></dyn>
+    	
+   
+	    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+	    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+        <script type="text/javascript" src="scripts/threads.js"></script>
+   
+</html>
